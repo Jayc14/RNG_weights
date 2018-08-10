@@ -1,3 +1,4 @@
+# https://medium.com/@peterkellyonline/weighted-random-selection-3ff222917eb6
 # Add up all the weights for all the items in the list
 # Pick a number at random between 1 and the sum of the weights
 # Iterate over the items
